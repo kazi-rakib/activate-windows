@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## ACTIVATE OFFICE
+`irm https://get.activated.win | iex`
+
